@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -99,7 +99,7 @@
     </nav>
 
     <div class="header">
-        <img src="unramlogo.jpg" alt="Logo UNRAM" class="logo">
+        
         <h1>Selamat Datang di Pembelajaran Pola Bilangan</h1>
         <p>Kelas 8</p>
     </div>
